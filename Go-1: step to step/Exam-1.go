@@ -28,5 +28,5 @@ func m_ain() {
 
 	fmt.Println("")
 	fmt.Println("С уважением,")
-	fmt.Println("Гл. бух. Иванов А.Е.")
+	fmt.Println("Гл. бух. Кабнасыров К.В.")
 }
